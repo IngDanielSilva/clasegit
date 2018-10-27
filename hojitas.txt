@@ -1,2 +1,5 @@
 que onda soy las hojas del arbol
+<<<<<<< HEAD
 asdasdas
+=======
+>>>>>>> ramita
